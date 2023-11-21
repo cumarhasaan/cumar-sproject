@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(247, 253, 255);
+}
+.parent{
+  background-color: rgb(247, 253, 255);
+  height: 900px;
+  text-align: center;
+  margin-top: 6%;
+}
+.parent h1{
+  color: rgb(4, 4, 49);
+  font-family: sans-serif;
+  font-size: 45px;
+  line-height: 53px;
+}
+.parent h6{
+  color: rgb(3, 116, 191);
+  font-size: 23px;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+
+}
+.cover{
+  display: flex;
+  background-color: rgb(3, 3, 47);
+  width: 130px;
+  height: 40px;
+  gap: 12px;
+  border-radius: 22px;
+  padding: 5px 12px;
+  margin-top: 22px;
+}
+.icon i{
+  color: white;
+  font-size: 30px;
+  margin-top: 3px;
+}
+.apple h2{
+color: white;
+font-size: 17px;
+
+}
+.apple p{
+  color: white;
+  font-size: 12px;
+}
+.sawir{
+  display: flex;
+  gap: 12px;
+  margin-top: 33px;
+  justify-content: center;
+}
+.sawir img{
+  height: 300px;
+  width: 250px;
+  border-radius: 22px;
+}
+.parent h3{
+  margin-top: 12px;
+font-size: 23px;
+margin-top: 6%;
+}
+.boxes{
+  margin-top: 6%;
+  display: flex;
+  padding: 0 22px;
+  gap: 13px;
+  padding-bottom: 12px;
+}
+.box1{
+  background-color: rgb(202, 207, 212);
+  width: 300px;
+  height: 150px;
+  text-align: justify;
+  padding: 6px;
+ 
+}
+.box1 p{
+  margin-top: 12px;
+}
+.stars{
+  margin-top: 52px;
+  color: orange;
+}
